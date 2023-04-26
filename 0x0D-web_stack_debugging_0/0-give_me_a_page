@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Run Apache on the designated container
+
+Sudo apt install apache2 -y
+Sudo service apache2 start
